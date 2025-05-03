@@ -1,0 +1,99 @@
+
+@font-face {
+  font-family: 'blackchancery';
+  src: url('../site_assets/fonts/bl/blkchcry.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'campanile';
+  src: url('../site_assets/fonts/cam/Campanile.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'kaushanscript';
+  src: url('../site_assets/fonts/kau/KaushanScriptRegular.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'merienda';
+  src: url('../site_assets/fonts/mer/MeriendaRegular.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'meriendaBold';
+  src: url('../site_assets/fonts/mer/MeriendaBold.ttf') format('truetype');
+  font-style: normal;
+}
+
+
+article h1 {	font-family: 'kaushanscript', sans-serif; font-size: 3em; margin-bottom: 30px;	
+	text-align: center;
+}
+
+article h2 {	font-family: 'kaushanscript', sans-serif; font-size: 2.5em; margin-bottom: 25px;	
+	text-align: center;
+} 
+
+article h3 {	font-family: 'kaushanscript', sans-serif; font-size: 2em; margin-bottom: 25px;	
+	text-align: center;
+}
+
+article h4 {	font-family: 'kaushanscript', sans-serif; font-size: 1.5em; margin-bottom: 20px;	
+	text-align: center;
+} 
+
+article h5 {	font-family: 'kaushanscript', sans-serif; font-size: 1em; margin-bottom: 20px;	
+	text-align: center;
+}
+
+article h6 {	font-family: 'kaushanscript', sans-serif; font-size: 0.5em; margin-bottom: 15px;	
+	text-align: center;
+}
+
+
+article p {
+	font-family: 'merienda', sans-serif; 
+	font-size: 1.1em;
+  	margin-bottom: 16px;
+}
+
+article li {
+	font-family: 'merienda', sans-serif; 
+	font-size: 1.2em;
+  	margin-bottom: 35px;	
+}
+
+
+.postQuote {
+	display: block; 
+	text-align: center;
+	font-size:1.2em;
+}
+.postPoem {
+	display: block; 
+	text-align: center;
+}
+
+
+.authorTag {
+	margin-bottom: 15px;
+}
+
+.titleImg {          
+	border-radius: 20px;
+}
+
+.postImgDiv{
+	display: flex;	
+	justify-content : center;
+}
+.postImg {
+	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 70%; 
+	border-radius: 15px;
+}

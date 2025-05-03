@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="stylesheet" href="code_css/main_style.css" />
+
+	<title>HHH : About / Contact </title>
+
+	<style type="text/css">
+
+		#about{
+			color: #00ff99;
+  			font-weight: bold;
+  			border-bottom: 2px solid #00ff99;		
+		}	
+
+		#upperRow {
+			display: flex;
+      	align-items: center;
+      	margin-bottom: 20px; /* space after the row */		
+		}
+		
+		.upperText {
+      	flex: 1;
+      	padding-right: 15px;
+    	}
+    	.author_image {
+      	flex: 1;
+			padding: 15px;
+  			overflow: hidden;
+    	}
+    	.author_image img {
+			border-radius: 25px;
+      	max-width: 85%;
+      	height: auto;
+      	display: block;
+  			margin: 0 auto;
+    	}
+    	
+    	@media (max-width: 768px) {
+  			#upperRow {
+    			flex-direction: column;
+    			align-items: center;
+  			}
+
+  			.upperText, .author_image {
+    			padding: 10px 0;
+    			text-align: center;
+  			}
+
+  			.upperText {
+    			padding-right: 0;
+  			}
+
+  			.author_image img {
+    			max-width: 100%;
+    			height: auto;
+  			}
+		}
+    
+	</style>
+
+</head>
+
+
+<body>
+
+	<div id="nav">
+	<nav>
+		<div id="menu-toggle">☰</div> <!-- Hamburger icon -->
+		<ul id="navList">
+    		<li> 
+    			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
+    		</li>
+			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
+			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
+			<li><a href="library.html" id="library"> 			Library </a></li>
+			<li><a href="directory.html" id="dir"> 			Directory </a></li>
+			<li><a href="Pages.html" id="pag"> 					Pages </a></li>
+			<li><a href="shop.html" id="shop"> 					Shop </a></li>
+			<li><a href="supportHHH.html" id="support"> 		Support HHH </a></li>
+			<li><a href="about.html" id="about"> 				About / Contact </a></li>
+  		</ul>
+  	</nav>
+	</div>
+
+
+  <div id="page-body">
+  
+    <div id="content-column">
+
+      <h1> About </h1>
+    	
+    	<div id="upperRow">
+    	
+    	<div id="upperLeft" class="upperText">
+		<p> 
+			I'm Kanishka K Rupasinghe. I go by the name label "Autumn-MistHare" on this site and my content channels.
+			I first lived in Sri Lanka. In teens I moved with my family to England, Uk. After school, there I got a
+			(2.1 Bsc Computer Science Hons) degree from Luton UoB campus. 
+		</p>
+		<p>
+			During those years I got Schizophrenia condition/psychosis. I was later admitted to hospital/mental health ward. 
+			It was hurting, difficult and still exists, but a chemical medication dose keeps things manageable for me.
+			I decided I have to take the help of chemical-pill to stay well and without troubles, until a better treatment/cure is found.  
+		</p>
+		<p>
+			Work, employment was difficult at times, and sporadic. I did volunteer quite a bit in the Leicester area, such as at
+			charity shops, Leicester Citizen's Advice, Leicester Libraries & Museums, and Leicester War Memorials. Also worked at
+			Leicester General Hospital, in a day-clinic as HCA. 		
+		</p>
+		<p>    
+			I had to come back to live in Sri Lanka with family (coronavirus pandemic times). I now live in the region I grew up in (Kandy area).
+		</p>
+		<p>
+			I decided to invest my time into self-employment, business, social media content and blogging. This way there is a possibility for
+			me to build life earnings without engaging directly in the employment-work-jobseeking competition. It is a way of trying to balance hard 
+			mental health difficulties with a necessary survival effort. I am dependent on my family during this time and have less freedom.
+		</p>    
+		<p>
+			If things go well in this effort, I can build earnings and savings, and move to a better living place. So I ask you that if you are
+			interested in my work and see that my work has quality, please follow my work and support in whatever way you can.
+			Competition and difficulties still exist in the area of business I work in. 		
+		</p>
+		</div>
+		<div id="upperRight" class="author_image">
+			<img src="site_assets/about_author_picture-heather-hill-hall-Autumn-mist-hare.jpg" alt="Kanishka K Rupasinghe">
+		</div>
+		
+		</div>
+
+		<br>    
+    
+		<h3>Casual Articles</h3>    
+		<p>
+			In addition to the main original work, I write some topics more causally. These could include articles on fiction books, movies and shows, 
+			video-games, Tv, tech related content, interesting internet sites, valuable or important social media, poetry, short stories, 
+			literature and so on. These works I write to a standard but take in a causal and lightweight manner.  		
+		</p>
+		
+		<br>		
+		
+		<h3> The blended-in Niches </h3>
+		<p>I write from these topic areas, to spice things up and keep it interesting, or combine these with my main niche area. </p>
+		<ul>
+			<li><b>Music and Art</b></li>
+			<p>Both areas I have interest in, and some production involvement. These works can also give sense of beauty to people.</p>
+			
+			<li><b>Entertainment, Drama & Conflict</b></li>
+			<p>Mostly will be seen in the casual section. I might write more if I really care about it.</p>
+			
+			<li><b>Stories & Narratives, Fiction books - Science Fiction & Fantasy</b></li>
+			<p>I read in fantasy works, science-fiction, young-ones books. </p>
+			
+			<li><b>Archaeology, Deep-time, Paleontology, Past cultures/Civs, Folklore, Folk song/music, Legends and myths, History</b></li>
+			<p>Like Lucas' Indiana Jones, I just have a bit of an interest in these past realities. And of meaning for now and future.
+			</p>			
+			
+			<li><b>Happiness, Love (am no expert) & (esp) Friendships, Healthy Solitude, Sense of love and belonging in Solitude</b></li>
+			<p>Things everyone needs one way or other. Also about finding fulfillment without over-attachment to materialism.</p>			
+			
+			<li><b>Health & Wellness, Lifestyle & Self-Improvement, Motivation & Success</b></li>
+			<p>Important things we all need to be well, strong and satisfied.</p>
+			
+			<li><b>Ethical-moral Work, Finance & Wealth</b></li>
+			<p>Don't expect much from me on this. In this world someone fills the gap to do the bad work in the end. But I hope I can say something. </p>
+			
+			<li><b>(a small selected amount of) Mystery, Life, Light & Darkness</b></li>
+			<p> Mysteries are mysteries - there are a relevant few. "Darkness" I talk about a little, carefully as I can. </p>
+			
+			<li><b>Tech, Coding & Gadgets</b></li>
+			<p>This is a part of my study knowledge, though its a bit rough for me to work in this area now.</p>
+		</ul>
+		
+		<br>		
+        
+		<h3>Main Content Topics</h3>
+		
+		<p>
+			I intend to make content on following topics and subtopics. The first area is to do with "mental skill & ability". Under this are
+			topics such as meditation techniques; "mentat" (intellectual) methods ; memory techniques; keeping stability,
+			health and safety along with use of mental techniques; and so on.   
+		</p>      
+		<p>
+			An area of content to do with "wisdom & understanding" : life, death and problems to do with life, the sense of self, "soul" and no-soul;
+			mental clarity and rightness, nature, reality and so on.
+		</p>
+      <p>
+			An area of topics to do with the mind and functions of the mind. Selected schools of psychology; consciousness, the mind's language; mental 
+			faculties; dreams, active imagination, and so on.      
+      </p>
+		<p>
+			An important area of mental health and wellbeing. I make it known to you that I have significant mental health challenges, and in my own
+			way I am dealing with maintaining a level of possible mental health.	Topics such as major problems; therapy; habits and the mind;
+			mind-body connection; ways of non-chemical medication treatment; and so on. 	
+		</p>      
+		<p>
+			I write about some teachings of some cultural closeness to me : Buddhism, Daoism, Yoga. I discuss some major groups of people or "roles"
+			in society (history to present) to do with mind and wellness. Such as the Buddhist monks, the greek philosophers, The yogis, the shaman 
+			role, chinease teachers of qigong/tai-chi. 
+		</p>
+      
+      <br>
+      
+      <h3>Other Minor Interests</h3>
+		<p>Animals and creatures, Nature, (natural sciences : Geology, Weather, Climate, Sea studies) Philosophy and observations, Clear Animism, Culture,
+		Science & Technology.  
+		</p>      
+
+		<br>
+
+		<h2>What you can do here...</h2>      
+      
+      <p>Brief news updates are on home page.</p>
+		<p> I feature my written articles on this site. You could browse and read them. </p>		
+		<p> Check the "pages" page. I may feature some of my music and art on this site. </p>
+		<br>
+		<p> I collect links to my social media accounts here. </p>
+		<p> Check the library page for books that I feature here. </p>
+		<p> Check the directory page for others' sites I link to. </p>
+      <br>
+      <p><b>Visit store section for products I feature, that you might consider buying.</b></p>
+      <p><b>Visit show support section (this work and my living) this is donations and Patreon </b></p>
+      <p>Bookmark this site and visit again later.</p>
+      <br>
+      
+		<h2> Contact Details </h2>      
+
+		<p>You could try sending email to :</p>      
+		<br>      
+      <p> Kanishka.R</p>
+      <p>@email.com</p>
+      <br>
+      <img src="../site_assets/emailbanner.png" alt="">
+      <br>
+      <p>Sorry, no guarantee I'll get to you quickly. I am bad at regular email checking.</p>
+      <p>Otherwise try a channel like social media, such as facebook page.</p>
+		<br>      
+      
+    </div>
+    
+  </div>
+  
+  
+  	<footer id="site-footer">
+  		<p style="padding-bottom: 5px;"> Dear Reader: read the articles written, check follow social media, gain value from site, 
+  		buy from shop, support me & this work. Thank you. </p>
+  		<p>&copy; 2025 Heather Hill Hall (Kanishka K Rupasinghe). All rights reserved.</p>
+	</footer>
+  
+	<script>
+  		const menuToggle = document.getElementById('menu-toggle');
+  		const navList = document.getElementById('navList');
+
+  		menuToggle.addEventListener('click', () => {
+    		navList.classList.toggle('show');
+  		});
+	</script>  
+  
+</body>
+
+
+</html>

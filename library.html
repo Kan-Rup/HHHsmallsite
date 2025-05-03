@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="code_css/main_style.css" />
+
+	<title>Heather Hill Hall</title>
+
+	<style type="text/css">
+
+		#library{
+			color: #00ff99;
+  			font-weight: bold;
+  			border-bottom: 2px solid #00ff99;		
+		}		
+		
+	</style>
+
+</head>
+
+
+<body>
+
+	<div id="nav">
+	<nav>
+		<div id="menu-toggle">☰</div> <!-- Hamburger icon -->
+		<ul id="navList">
+    		<li> 
+    			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
+    		</li>
+			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
+			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
+			<li><a href="library.html" id="library"> 			Library </a></li>
+			<li><a href="directory.html" id="dir"> 			Directory </a></li>
+			<li><a href="Pages.html" id="pag"> 					Pages </a></li>
+			<li><a href="shop.html" id="shop"> 					Shop </a></li>
+			<li><a href="supportHHH.html" id="support"> 		Support HHH </a></li>
+			<li><a href="about.html" id="about"> 				About / Contact </a></li>
+  		</ul>
+  	</nav>
+	</div>
+
+
+  <div id="page-body">
+  
+    <div id="content-column">
+
+		<h1> Library </h1>
+      
+    </div>
+    
+  </div>
+  
+  
+  	<footer id="site-footer">
+  		<p style="padding-bottom: 5px;"> Dear Reader: read the articles written, check follow social media, gain value from site, 
+  		buy from shop, support me & this work. Thank you. </p>
+  		<p>&copy; 2025 Heather Hill Hall (Kanishka K Rupasinghe). All rights reserved.</p>
+	</footer>
+  
+	<script>
+  		const menuToggle = document.getElementById('menu-toggle');
+  		const navList = document.getElementById('navList');
+
+  		menuToggle.addEventListener('click', () => {
+    		navList.classList.toggle('show');
+  		});
+	</script>  
+  
+</body>
+
+
+</html>
