@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
+	<link rel="stylesheet" href="code_css/postlist_style.css" />
 
 	<title>Heather Hill Hall</title>
 
@@ -29,7 +30,7 @@
 		<div id="menu-toggle">☰</div> <!-- Hamburger icon -->
 		<ul id="navList">
     		<li> 
-    			<img src="../site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
+    			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
     		</li>
 			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
 			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
@@ -49,6 +50,24 @@
     <div id="content-column">
 		
 		<h1> Main Articles </h1>
+
+		<h2>Spiritual</h2>
+		
+		<h3>Poetry</h3>
+		
+		<div class="postListing">
+		<div class="postImgContainer">
+			<img class="postImg" src="images/2025/smallimg-spiritual-poetry-A1-reading-under-a-tree-heatherhillhall.com.png" alt="reading-under-a-tree">
+		</div>
+		<div class="postListingText">		
+		<h4 class="postTitle"><a href="articles/main/spiritual/poetry/a-deeper-read-of-a-poem-heather-hill-hall.html">
+		A Deeper Read of a Good Poem : get something great out of reading poetry.
+		</a></h4>		
+		<p class="postDescription">
+			We take two example poems, and with one of them (Ozymandias), we see how to read it at a deeper, more meaningful level.
+		</p>
+		</div>
+		</div>
 
     </div>
     

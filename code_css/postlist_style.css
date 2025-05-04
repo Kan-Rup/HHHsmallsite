@@ -1,0 +1,43 @@
+/* Base styles */
+* {
+	box-sizing: border-box;
+}
+
+.postListing {
+	display: flex;
+	width: 100%;
+	padding: 5px;
+	background-color: #b3e2d7;
+	gap: 10px;
+	
+	border-radius: 8px;
+}
+
+.postImgContainer {
+	width: 30%;
+}
+
+.postImgContainer img {
+	width: 100%;
+	height: auto;
+	display: block;
+	border-radius: 6px;
+}
+
+.postListingText {
+	width: 70%;
+	padding: 7px;
+	background-color: #b3e2d7;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+	.postListing {
+		flex-direction: column;
+	}
+
+	.postImgContainer,
+	.postListingText {
+		width: 100%;
+	}
+}
