@@ -66,7 +66,7 @@
 		<div id="menu-toggle">☰</div> <!-- Hamburger icon -->
 		<ul id="navList">
     		<li> 
-    			<img src="../site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
+    			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
     		</li>
 			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
 			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
@@ -148,6 +148,7 @@
 			
 			<li><a href="https://www.youtube.com/@hhhcircle">HHH Youtube</a></li>
 			<li><a href="https://www.pinterest.com/hhhcircle/">HHH Pinterest</a></li>
+			<li><a href="https://x.com/hhhcircle">HHH Bluesky</a></li>
 			<li><a href="https://x.com/hhhcircle">HHH Twitter</a></li>
 			<li><a href="https://www.linkedin.com/in/kan-rup/">Kanishka-KR Linkedin</a></li>
   		</ul>
