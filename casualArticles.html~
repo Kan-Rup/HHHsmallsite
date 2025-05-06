@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
+	<link rel="stylesheet" href="code_css/postlist_style.css" />
 
 	<title>Heather Hill Hall</title>
 
@@ -29,7 +30,7 @@
 		<div id="menu-toggle">☰</div> <!-- Hamburger icon -->
 		<ul id="navList">
     		<li> 
-    			<img src="../site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
+    			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
     		</li>
 			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
 			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
@@ -49,6 +50,22 @@
     <div id="content-column">
     	
     	<h1> Casual Articles </h1>
+
+		<h2>Video-Games</h2>
+
+		<div class="postListing">
+		<div class="postImgContainer">
+			<img class="postImg" src="images/2025/smallimg-bastion-heatherhilhall.com_.png" alt="bastion video game poster">
+		</div>
+		<div class="postListingText">		
+		<h4 class="postTitle"><a href="articles/casual/video_game/bastion-heather-hill-hall.html">
+		Bastion - Stylistic Top-down Action Game : Explore, Fight, Build and Prosper at the Bastion.
+		</a></h4>		
+		<p class="postDescription">
+			We discuss the top down isometric game Bastion. It is pretty, stylistic, has some fun combat, perks, challenges; all laid out to a narrated story.
+		</p>
+		</div>
+		</div>
 	
 
     </div>
