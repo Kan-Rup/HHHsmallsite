@@ -13,7 +13,6 @@
 </script>
 
 
-
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -26,6 +25,16 @@
     line-height: 1;
     letter-spacing: -1px;
   }
+  
+  	/* Base body style */
+	body {
+  		margin: 0;
+  		padding: 0;
+  		font-family: Arial, sans-serif;
+  		background-color: #3aa577;
+  		color: white;
+	}
+	
 </style>
 
 </head>
@@ -33,10 +42,14 @@
 <body>
 
 <div class="container">
-  <h1>404</h1>
 
+  <br><br><br>
+  <h1>( Code 404 )</h1>
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  
+  <h4>Follow link to go to homepage :</h4>
+  <p><a style="color: white;" href="index.html" > > GO TO HOME PAGE < </a></p>
 </div>
 
 </body>
