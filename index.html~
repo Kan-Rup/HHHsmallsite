@@ -3,6 +3,17 @@
 
 <head>
 
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE9CXGCMRM"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-GE9CXGCMRM');
+	</script>
+
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
@@ -67,7 +78,9 @@
       	display: flex;
       	flex-direction: row;      
       	gap: 20px;
-      	padding: 20px;
+      	
+      	padding-left: 20px;
+      	padding-right: 20px;
       	align-items: center;
       	
       	background-color: #46c49c;
@@ -145,8 +158,8 @@
       <div class="homeTopContainer">
 
 			<div class="homeTopText">
-				<h1> Heather Hill Hall - Home </h1>
-				<h4> ( https://heatherhillhall.com ) </h4>
+				<h2> Heather Hill Hall - Home </h2>
+				<p style="font-size: 1.7em"> ( https://heatherhillhall.com ) </p>
 			</div>
 
 			<div class="homeTopImage">
