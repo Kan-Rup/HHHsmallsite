@@ -3,6 +3,17 @@
 
 <head>
 
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE9CXGCMRM"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-GE9CXGCMRM');
+	</script>
+
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
@@ -58,7 +69,7 @@
 			<img class="postImg" src="images/2025/smallimg-bastion-heatherhilhall.com_.png" alt="bastion video game poster">
 		</div>
 		<div class="postListingText">		
-		<h4 class="postTitle"><a href="articles/casual/video_game/bastion-heather-hill-hall.html">
+		<h4 class="postTitle"><a href="articles/casual/video_game/bastion.html">
 		Bastion - Stylistic Action Game : Explore, Fight, Build and Prosper at the Bastion.
 		</a></h4>		
 		<p class="postDescription">
