@@ -3,6 +3,16 @@
 
 <head>
 
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE9CXGCMRM"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-GE9CXGCMRM');
+	</script>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
@@ -68,6 +78,22 @@
 		</p>
 		</div>
 		</div>
+		
+		<div class="postListing">
+		<div class="postImgContainer">
+			<img class="postImg" src="images/2025/spiritual-poetry-B2-heatherhillhall.png" alt="reading-poetry-on-reclining chair at beach">
+		</div>
+		<div class="postListingText">		
+		<h4 class="postTitle"><a href="articles/main/spiritual/poetry/further-ways-for-reading-poetry.html">
+		An Article on Poetry : 11 Further Ways for a Deep and Absorbed Reading
+		</a></h4>		
+		<p class="postDescription">
+		In this article on poetry, we list and describe the ways of reading such as imaginative reading, 
+		emotional reading, holistic reading and synoptic reading.
+		</p>
+		</div>
+		</div>
+
 
     </div>
     
