@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HHH Main Articles</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+  
+<h1>Blog Categories</h1>
+
+<ul>
+  <li>
+    <strong>Main Articles</strong>
+    <ul>
+      <li><a href="main/spiritual/poetry">Poetry</a></li>
+    </ul>
+  </li>
+
+<br>  
+  
+  <li>
+    <strong>Casual Articles</strong>
+    <ul>
+      <li><a href="casual/video_game">Video-Game</a></li>      
+    </ul>
+  </li>
+</ul>
+ 
+ 
+</body>
+
+</html>
+

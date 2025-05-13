@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HHH Main Articles</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+  <h1>Main Blog Posts</h1>
+  <ul>
+    <li><a href="video_game/">Video-Game</a></li>
+  </ul>
+  <a href="../">Back to Blog</a>
+</body>
+
+</html>
