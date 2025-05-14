@@ -104,7 +104,7 @@ article li {
 	.postImg {
 		margin-top: 20px;
 		margin-bottom: 30px;
-		width: 90%; 
+		width: 97%; 
 		border-radius: 15px;
 	}
 }
