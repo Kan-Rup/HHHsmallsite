@@ -3,6 +3,16 @@
 
 <head>
 
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE9CXGCMRM"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-GE9CXGCMRM');
+	</script>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" href="code_css/main_style.css" />
@@ -68,8 +78,7 @@
     		<li> 
     			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
     		</li>
-			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
-			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
+			<li><a href="blogPage.html" id="library"> 			Blog </a></li>
 			<li><a href="library.html" id="library"> 			Library </a></li>
 			<li><a href="directory.html" id="dir"> 			Directory </a></li>
 			<li><a href="Pages.html" id="pag"> 					Pages </a></li>

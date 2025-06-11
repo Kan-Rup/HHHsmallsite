@@ -42,8 +42,7 @@
     		<li> 
     			<img src="site_assets/logo_HHH_small.png" alt="Logo" class="nav-logo"> <a href="index.html" id="index"> Home </a>
     		</li>
-			<li><a href="mainArticles.html" id="main"> 		Main Articles </a></li>
-			<li><a href="casualArticles.html"  id="casual"> Casual Articles </a></li>
+			<li><a href="blogPage.html" id="blog"> 			Blog </a></li>
 			<li><a href="library.html" id="library"> 			Library </a></li>
 			<li><a href="directory.html" id="dir"> 			Directory </a></li>
 			<li><a href="Pages.html" id="pag"> 					Pages </a></li>
@@ -59,57 +58,22 @@
   
     <div id="content-column">
 		
-		<h1> Main Articles </h1>
+		<h1> Writings for the Average Normal Person </h1>
 
-		<h2>Spiritual</h2>
-		
-		<h3>Poetry</h3>
-		
 		<div class="postListing">
 		<div class="postImgContainer">
-			<img class="postImg" src="images/2025/spiritual-poetry-A1-reading-under-a-tree-smallimg-heatherhillhall.com.png" alt="reading-under-a-tree">
+			<img class="postImg" src="images/2025/001-simple-living-heatherhillhall.com_.png" alt="house and garden in the hills by mountains">
 		</div>
 		<div class="postListingText">		
-		<h4 class="postTitle"><a href="articles/main/spiritual/poetry/a-deeper-read-of-a-poem.html">
-		A Deeper Read of a Good Poem : get something great out of reading poetry.
+		<h4 class="postTitle"><a href="articles/001-simple-lightweight peaceful-living.html">
+		Simple Lightweight Peaceful Living
 		</a></h4>		
 		<p class="postDescription">
-			We take two example poems, and with one of them (Ozymandias), we see how to read it at a deeper, more meaningful level.
+			About living simply, with less, and well, and still being happy.
 		</p>
 		</div>
 		</div>
 		
-		<div class="postListing">
-		<div class="postImgContainer">
-			<img class="postImg" src="images/2025/spiritual-poetry-B2-heatherhillhall.com_.png" alt="reading-poetry-on-reclining chair at beach">
-		</div>
-		<div class="postListingText">		
-		<h4 class="postTitle"><a href="articles/main/spiritual/poetry/further-ways-for-reading-poetry.html">
-		An Article on Poetry : 11 Further Ways for a Deep and Absorbed Reading
-		</a></h4>		
-		<p class="postDescription">
-		In this article on poetry, we list and describe the ways of reading such as imaginative reading, 
-		emotional reading, holistic reading and synoptic reading.
-		</p>
-		</div>
-		</div>
-		
-		<div class="postListing">
-		<div class="postImgContainer">
-			<img class="postImg" src="images/2025/spiritual-poetry-C-smallimg-heatherhillhall.com_.png" alt="dancing to poetry at dawn on a top floor.">
-		</div>
-		<div class="postListingText">		
-		<h4 class="postTitle"><a href="articles/main/spiritual/poetry/ways-to-interact-with-poems.html">
-		Various Interesting Ways to Interact with Poems.
-		</a></h4>		
-		<p class="postDescription">
-		There is more than one way to go about working with a poem. It takes a bit more confidence and wanting to do the activity. But it might be
-		worth it, if you get to know it.
-		</p>
-		</div>
-		</div>
-
-
     </div>
     
   </div>
